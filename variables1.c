@@ -11,4 +11,5 @@ int main() {
     printf("La edad es: %d\n", numeroAlumnos);
 //salida de datos
     return 0;
+    //fin del programa
 }
